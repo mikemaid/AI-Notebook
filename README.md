@@ -27,6 +27,3 @@
 **2. What did you notice about the computations that you ran in the TensorFlow
 programs (i.e. interactive models) in the tutorial?**
 Tensorflow functions define the model, but do not actually complete the desired action unless there is an interactive session running. Also, the datasets have to be processed before training the model for better identification of relationships between data (feature extraction).
-   
-   
-{"mode":"full","isActive":false}
